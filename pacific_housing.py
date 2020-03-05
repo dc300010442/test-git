@@ -11,3 +11,5 @@ url='https://www.pacific.com.tw/'
 response= requests.get(url, headers=header)
 print(response.text)
 
+
+
